@@ -32,6 +32,10 @@ Java I/O (java.io package)
 JDK (Java Development Kit)
 Command Line / IDE (Eclipse, IntelliJ, or VS Code)
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/3087824a-497a-4a1b-aedc-01cc8365e89b)
+
 
 
 
